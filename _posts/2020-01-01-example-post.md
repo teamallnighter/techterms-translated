@@ -2,6 +2,6 @@
 published: true
 ---
 
-## Example post
+## API's
 
-This is an example post. You can edit it or create a new one
+"Application programming interface." A computer programming term meaning a series of rules. APIs allow an application to extract information from a service and use that information in their own application, or sometimes for data analysis. It's kind of like a phone for applications to have conversations -- an API literally "calls" one application and gets information to bring to you to use in your software. APIs facilitate the data needed to provide solutions to customer problems.
